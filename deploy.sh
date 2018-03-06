@@ -3,8 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Commit changes to website repo.
-git add --all
-git commit
+git add .
 msg="rebuilding site `date`"
 git commit -m "$msg"
 git push origin master
