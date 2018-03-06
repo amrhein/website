@@ -4,7 +4,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Commit changes to website repo.
 git add --all
-git commit -
+git commit
 msg="rebuilding site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
