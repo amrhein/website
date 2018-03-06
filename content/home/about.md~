@@ -22,17 +22,11 @@ weight = 5
   year = 2016
 
 [[education.courses]]
-  course = "BA in Physics with a concentration in Math"
+  course = "BA in Physics"
   institution = "Columbia University"
   year = 2009
 
-
-[header]
-  image = "core_slice.jpg"
-  caption = "test"
- 
 +++
 
-My research combines 
+My research combines *numerical models* and *observations* of the natural world to learn about Earth's oceans and climate in the *present, future, and geologic past.*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
