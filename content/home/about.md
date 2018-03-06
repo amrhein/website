@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Ocean dynamics",
-    "Inverse Modeling and data assimilation",
+    "Inverse modeling and data assimilation",
     "Paleoclimate reconstruction and dynamics"
   ]
 
@@ -25,8 +25,8 @@ weight = 5
   course = "BA in Physics"
   institution = "Columbia University"
   year = 2009
-
 +++
 
-My research combines *numerical models* and *observations* of the natural world to learn about Earth's oceans and climate in the *present, future, and geologic past.*
+My research combines **numerical models** and **observations** of the natural world to learn about Earth's oceans and climate in the **present, future, and geologic past.**
 
+{{% staticref "files/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
