@@ -10,7 +10,7 @@ if [ $# -eq 1 ]
   then msg="$1"
 fi
 git commit -m "$msg"
-git push -u origin master
+git push origin master
 
 # Build the project.
 hugo -t academic # if using a theme, replace with `hugo -t <YOURTHEME>`
