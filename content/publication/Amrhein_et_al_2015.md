@@ -36,7 +36,7 @@ selected = false
 #projects = [""]
 
 # Links (optional).
-#url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "http://ocean.mit.edu/~cwunsch/papersonline/amrhein_etal_deglacial_paleoceanog_2015.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

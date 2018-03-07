@@ -36,7 +36,7 @@ selected = false
 #projects = [""]
 
 # Links (optional).
-#url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "https://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-12-00165.1"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

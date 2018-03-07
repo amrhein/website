@@ -1,9 +1,9 @@
 +++
-title = "A synthesis of deglacial deep-sea radiocarbon records and a test of their (in)consistency with modern ocean circulation"
-date = "2018-01-01"
+title = "Direct Observations of Forma- tion and Propagation of Subpolar Eddies into the Subtropical North Atlantic"
+date = "2013-01-01"
 
 # Authors. Comma separated list, e.g. `["J. Smerdon", ""]`.
-authors = ["N Zhao", "O Marchal", "L Keigwin", "DE Amrhein", "G Gebbie"]
+authors = ["AS Bower", "RM Hendry", "DE Amrhein", "JM Lilly"]
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ authors = ["N Zhao", "O Marchal", "L Keigwin", "DE Amrhein", "G Gebbie"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Paleoceanography and Paleoclimatology*"
+publication = "*Deep Sea Research Part II: Topical Studies in Oceanography*"
 #publication_short = "*DSR II*"
 
 # Abstract and optional shortened version.
@@ -25,7 +25,7 @@ publication = "*Paleoceanography and Paleoclimatology*"
 #abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+#image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -54,12 +54,12 @@ selected = false
 math = false
 
 # Does the content use source code highlighting?
-highlight = true
+#highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++
