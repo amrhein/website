@@ -3,13 +3,13 @@
 date = "2018-03-06"
 
 # Project title.
-title = "Inferring the glacial ocean state from models + data"
+title = "Signal and noise in paleoclimate records"
 
 # Project summary to display on homepage.
-summary = "Fitting numerical models to observations paints a physically consistent picture of the ocean 20,000 years ago."
+summary = "Using proxy data is like playing a game of 'telephone' with past climate -- sometimes the information gets garbled. I am working to quantify errors arising from proxy sampling procedures."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "LGM_temp.png"
+image_preview = "spectra.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -27,4 +27,4 @@ image = "headers/Church_Aurora_1865.jpg"
 #caption = "My caption :smile:"
 
 +++
-
+We are using the MITgcm adjoint to infer atmospheric changes (like wind stress amplitudes, in red) that change abyssal watermass distributions in ways suggested by paleo data.

@@ -28,3 +28,4 @@ image = "headers/Church_Aurora_1865.jpg"
 
 +++
 
+Fitting numerical models to observations paints a physically consistent picture of the ocean 20,000 years ago.

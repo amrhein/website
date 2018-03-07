@@ -3,13 +3,13 @@
 date = "2018-03-06"
 
 # Project title.
-title = "Connecting ocean tracers to global climate"
+title = "Inferring the glacial ocean state from models + data"
 
 # Project summary to display on homepage.
-summary = "We are using the MITgcm adjoint to infer atmospheric changes (like wind stress amplitudes, in red) that change abyssal watermass distributions in ways suggested by paleo data."
+summary = "Fitting numerical models to observations paints a physically consistent picture of the ocean 20,000 years ago."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "Wind_pert.png"
+image_preview = "LGM_temp.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -3,13 +3,13 @@
 date = "2018-03-06"
 
 # Project title.
-title = "Signal and noise in paleoclimate records"
+title = "Reconstructing Atlantic Ocean heat content over the last 1000 years"
 
 # Project summary to display on homepage.
-summary = "Using proxy data is like playing a game of 'telephone' with past climate -- sometimes the information gets garbled. I am working to quantify errors arising from proxy sampling procedures."
+summary = "I am extending the Last Millennium Reanalysis to include ocean observations and determine what we can -- and can't -- say about internal climate variability over the last 1000 years."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "spectra.png"
+image_preview = "NAtl_skill.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

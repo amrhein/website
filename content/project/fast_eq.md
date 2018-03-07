@@ -28,3 +28,4 @@ image = "headers/Church_Aurora_1865.jpg"
 
 +++
 
+Simulating ocean tracers is computationally expensive. New online extrapolation and preconditioning techniques allow us to estimate equilibria in a fraction of the time.

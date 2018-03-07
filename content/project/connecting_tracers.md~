@@ -3,13 +3,13 @@
 date = "2018-03-06"
 
 # Project title.
-title = "Numerical tools for accelerating ocean tracer equilibration"
+title = "Connecting ocean tracers to global climate"
 
 # Project summary to display on homepage.
-summary = "Simulating how different climates affect ocean tracers is computationally expensive because parts of the ocean respond very slowly to change. I am developing new techniques to speed up estimates of equilibrium tracers."
+summary = "We are using the MITgcm adjoint to infer atmospheric changes (like wind stress amplitudes, in red) that change abyssal watermass distributions in ways suggested by paleo data."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "stommel.gif"
+image_preview = "Wind_pert.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

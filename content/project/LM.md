@@ -28,3 +28,4 @@ image = "headers/Church_Aurora_1865.jpg"
 
 +++
 
+I am extending the Last Millennium Reanalysis to include ocean observations and determine what we can -- and can't -- say about internal climate variability over the last 1000 years.

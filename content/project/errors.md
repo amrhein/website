@@ -28,3 +28,4 @@ image = "headers/Church_Aurora_1865.jpg"
 
 +++
 
+Using proxy data is like playing a game of 'telephone' with past climate -- sometimes the information gets garbled. I am working to quantify errors arising from proxy sampling procedures.
