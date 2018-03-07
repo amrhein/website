@@ -286,4 +286,3 @@ defaultContentLanguageInSubdir = false
 [Languages.en]
   languageCode = "en-us"
 
-{{%/* staticref "files/cv.pdf" */%}}Download my CV{{%/* /staticref */%}}
