@@ -1,5 +1,5 @@
 +++
-title = "A Review of the Role of AMOC Variability in Atlantic Multidecadal Vari- ability and Associated Climate Impacts"
+title = "A Review of the Role of AMOC Variability in Atlantic Multidecadal Variability and Associated Climate Impacts"
 date = "2018-02-01"
 
 # Authors. Comma separated list, e.g. `["J. Smerdon", ""]`.

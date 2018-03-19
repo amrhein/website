@@ -1,9 +1,9 @@
 +++
-title = "Dynamical controls on the depth of the boundary between bottom and deep waters in the Last Glacial Maximum Atlantic"
+title = "Quantifying Proxy Influence in the Last Millennium Reanalysis"
 date = "2018-02-01"
 
 # Authors. Comma separated list, e.g. `["J. Smerdon", ""]`.
-authors = ["DE Amrhein","LuAnne Thompson","Carl Wunsch"]
+authors = ["G Hakim","DE Amrhein","C Snyder","D Anderson","J Emile-Geay","D Noone","R Tardif"]
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ authors = ["DE Amrhein","LuAnne Thompson","Carl Wunsch"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In prep. for *JGR Oceans*"
+publication = "In prep. for *Climate of the Past*"
 #publication_short = "*J Clim*"
 
 # Abstract and optional shortened version.

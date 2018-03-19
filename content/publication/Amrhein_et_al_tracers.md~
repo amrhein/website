@@ -1,9 +1,9 @@
 +++
-title = "Quantifying uncertainties due to discontinuous sampling of paleoclimate records"
+title = "Dynamical controls on the depth of the boundary between bottom and deep waters in the Last Glacial Maximum Atlantic"
 date = "2018-02-01"
 
 # Authors. Comma separated list, e.g. `["J. Smerdon", ""]`.
-authors = ["DE Amrhein"]
+authors = ["DE Amrhein","LuAnne Thompson","Carl Wunsch"]
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ authors = ["DE Amrhein"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Paleoceanography and Paleoclimate*, in revision"
+publication = "In prep. for *JGR Oceans*"
 #publication_short = "*J Clim*"
 
 # Abstract and optional shortened version.

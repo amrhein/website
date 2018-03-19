@@ -1,6 +1,6 @@
 +++
-title = "Quantifying uncertainties due to discontinuous sampling of paleoclimate records"
-date = "2018-02-01"
+title = "Inferring Ocean Circulation During the Last Glacial Maximum and Last Deglaciation Using Data and Models"
+date = "2016-02-01"
 
 # Authors. Comma separated list, e.g. `["J. Smerdon", ""]`.
 authors = ["DE Amrhein"]
@@ -14,7 +14,7 @@ authors = ["DE Amrhein"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["5"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*PhD Thesis, MIT-WHOI Joint Program*"
@@ -36,7 +36,7 @@ selected = false
 #projects = [""]
 
 # Links (optional).
-#url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "files/Amrhein_PhD_thesis.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"

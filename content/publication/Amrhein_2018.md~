@@ -1,9 +1,9 @@
 +++
-title = "Inferring surface water equilibrium calcite δ18O during the last deglacial period from benthic foraminiferal δ18O records: Implications for ocean circulation"
-date = "2018-02-02"
+title = "Quantifying uncertainties due to discontinuous sampling of paleoclimate records"
+date = "2018-02-01"
 
 # Authors. Comma separated list, e.g. `["J. Smerdon", ""]`.
-authors = ["DE Amrhein", "C Wunsch", "O Marchal", "G Forget"]
+authors = ["DE Amrhein"]
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ authors = ["DE Amrhein", "C Wunsch", "O Marchal", "G Forget"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Climate*, in revision"
+publication = "*Paleoceanography and Paleoclimate*, in revision"
 #publication_short = "*J Clim*"
 
 # Abstract and optional shortened version.
