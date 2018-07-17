@@ -17,7 +17,7 @@ authors = ["R Zhang","R Sutton","G Danabasoglu","Y-O Kwon","R Marsh","S Yeager",
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In prep. for *Journal of Climate*"
+publication = "Subm. to *Reviews in Geophysics*"
 #publication_short = "*J Clim*"
 
 # Abstract and optional shortened version.

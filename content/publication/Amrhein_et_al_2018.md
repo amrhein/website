@@ -1,6 +1,6 @@
 +++
 title = "A global glacial ocean state estimate constrained by upper-ocean temperature proxies"
-date = "2018-02-02"
+date = "2018-07-01"
 
 # Authors. Comma separated list, e.g. `["J. Smerdon", ""]`.
 authors = ["DE Amrhein", "C Wunsch", "O Marchal", "G Forget"]
