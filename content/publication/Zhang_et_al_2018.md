@@ -18,7 +18,6 @@ publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "Subm. to *Reviews in Geophysics*"
-#publication_short = "*J Clim*"
 
 # Abstract and optional shortened version.
 #abstract = ""
