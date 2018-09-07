@@ -36,7 +36,7 @@ selected = false
 #projects = [""]
 
 # Links (optional).
-url_pdf = "files/Amrhein_et_al_LGM_subm_JClim.pdf"
+url_pdf = "https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-17-0769.1"
 #url_preprint = "files/Amrhein_et_al_LGM_subm_JClim.pdf"
 #url_code = "#"
 #url_dataset = "#"
