@@ -1,6 +1,6 @@
 +++
 title = "Estimating nullspace uncertainty in paleoclimate reconstructions with an application to the last millennium"
-date = "2018-07-01"
+date = " "
 
 # Authors. Comma separated list, e.g. `["J. Smerdon", ""]`.
 authors = ["DE Amrhein", "G Hakim"]
@@ -17,7 +17,7 @@ authors = ["DE Amrhein", "G Hakim"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Climate of the Past*"
+publication = "*in prep. for Climate of the Past*"
 #publication_short = "*J Clim*"
 
 # Abstract and optional shortened version.
