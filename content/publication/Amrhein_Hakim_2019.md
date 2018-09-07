@@ -1,9 +1,9 @@
 +++
-title = "A global glacial ocean state estimate constrained by upper-ocean temperature proxies"
+title = "Estimating nullspace uncertainty in paleoclimatereconstructions with an application to the lastmillennium"
 date = "2018-07-01"
 
 # Authors. Comma separated list, e.g. `["J. Smerdon", ""]`.
-authors = ["DE Amrhein", "C Wunsch", "O Marchal", "G Forget"]
+authors = ["DE Amrhein", "G Hakim"]
 
 # Publication type.
 # Legend:
@@ -14,10 +14,10 @@ authors = ["DE Amrhein", "C Wunsch", "O Marchal", "G Forget"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Climate*"
+publication = "*Climate of the Past*"
 #publication_short = "*J Clim*"
 
 # Abstract and optional shortened version.
@@ -36,7 +36,7 @@ selected = false
 #projects = [""]
 
 # Links (optional).
-url_pdf = "https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-17-0769.1"
+#url_pdf = "https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-17-0769.1"
 #url_preprint = "files/Amrhein_et_al_LGM_subm_JClim.pdf"
 #url_code = "#"
 #url_dataset = "#"
