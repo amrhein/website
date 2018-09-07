@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Paleoclimate reconstruction and dynamics"
+    "Paleoclimate reconstruction and dynamics",
     "Ocean dynamics",
-    "Inverse modeling and data assimilation",
+    "Inverse modeling and data assimilation"
   ]
 
 # List your qualifications (such as academic degrees).
