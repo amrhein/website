@@ -1,5 +1,5 @@
 +++
-title = "Estimating nullspace uncertainty in paleoclimatereconstructions with an application to the lastmillennium"
+title = "Estimating nullspace uncertainty in paleoclimate reconstructions with an application to the last millennium"
 date = "2018-07-01"
 
 # Authors. Comma separated list, e.g. `["J. Smerdon", ""]`.
